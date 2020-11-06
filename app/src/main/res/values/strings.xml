@@ -6,4 +6,9 @@
     <string name="text_view_header">Whats your name ?</string>
     <string name="text_input_hint">Type your name here *</string>
     <string name="text_name_saved">Welcome undefined user</string>
+    <string name="toast_name">Please, name field must be completed</string>
+    <string name="toast_success_save">Name saved successfully</string>
+
+    <!-- MainActivity -->
+    <string name="undefined_key">Username undefined</string>
 </resources>
